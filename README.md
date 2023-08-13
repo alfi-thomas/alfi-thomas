@@ -23,7 +23,7 @@
     <h2>Let's connect:</h2>
     <table style="margin: 0 auto; border-collapse: collapse;">
         <tr>
-            <td style="padding: 10px;"><a href="mailto:alfithomas13@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" style="height: 40px;"></a></td>
+            <td style="padding: 10px;"><a href="mailto:alfithomas13@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Femail%2Femail_PNG11.png&f=1&nofb=1&ipt=833f30810bc99588fc689440d8f665639b864e7dee3fac82cb98ca17fadc493c&ipo=images" style="height: 40px;"></a></td>
             <td style="padding: 10px;"><a href="https://www.facebook.com/alfi.thomas.13"><img src="https://image.flaticon.com/icons/svg/1384/1384053.svg" style="height: 40px;"></a></td>
             <td style="padding: 10px;"><a href="https://www.instagram.com/_alfi_thomas_"><img src="https://image.flaticon.com/icons/svg/1384/1384063.svg" style="height: 40px;"></a></td>
             <td style="padding: 10px;"><a href="https://www.linkedin.com/in/alfi-thomas"><img src="https://image.flaticon.com/icons/svg/1384/1384088.svg" style="height: 40px;"></a></td>
