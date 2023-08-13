@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Hey mate, I'm Alfi Thomas!</h1>
+    <p>Hey mate, I'm Alfi Thomas!</p>
     <hr>
     🔐 Immersing myself in the digital realm of cybersecurity, meticulously unveiling vulnerabilities one step at a time.<br>
     🌱 Embarking on a journey to master the craft of secure coding and ethical hacking.<br>
