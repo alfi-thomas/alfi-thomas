@@ -8,7 +8,7 @@
     <p>🌱 Learning the art of secure coding and ethical hacking.</p>
     <p>💼 Seeking exciting collaborations on cybersecurity projects.</p>
     <h2>Skills</h2>
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-marques.com%2Fwp-content%2Fuploads%2F2021%2F03%2FJava-Embleme.png&f=1&nofb=1&ipt=204a33fa8e61efe45fa6e6afe165ddabdd4c4f56be95801fd347f29aa5270c74&ipo=images" style="width: 40px;">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-marques.com%2Fwp-content%2Fuploads%2F2021%2F03%2FJava-Embleme.png&f=1&nofb=1&ipt=204a33fa8e61efe45fa6e6afe165ddabdd4c4f56be95801fd347f29aa5270c74&ipo=images" style="width: 50px;">
     <h2>Let's connect:</h2>
     <ul>
         <li>Email: <a href="mailto:alfithomas13@gmail.com">alfithomas13@gmail.com</a></li>
