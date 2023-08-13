@@ -20,7 +20,7 @@
             <td style="padding: 10px;"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F9c%2Fea%2Fba%2F9ceaba69b7a9f89158ff953107978f3e.png&f=1&nofb=1&ipt=3075bbe59bc6582bdf052559e5f61993a5901eae7505bb6556cac10d63a81403&ipo=images" style="height: 40px;"></td>
         </tr>
     </table>
-    <h2>Let's connect:</h2>
+    <h2>Let's Connect:</h2>
     <table style="margin: 0 auto; border-collapse: collapse;">
         <tr>
             <td style="padding: 10px;"><a href="https://www.facebook.com/alfi.thomas.13"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipart.info%2Fimages%2Fccovers%2F1509135366facebook-symbol-png-logo.png&f=1&nofb=1&ipt=44592128f580040d422c3fad9edda3af20e30cfc152d46e8697c87b22c1defe5&ipo=images" style="height: 40px;"></a></td>
