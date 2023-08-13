@@ -7,5 +7,5 @@
 - Facebook: alfi.thomas.13
 - Instagram: _alfi_thomas_
 - LinkedIn: Alfi Thomas
-- Twitter: _alfi_thomas_
+-> Twitter: _alfi_thomas_
 Stay curious, stay secure!
