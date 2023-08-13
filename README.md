@@ -9,7 +9,7 @@
     <p>💼 Seeking exciting collaborations on cybersecurity projects.</p>
     <h2>Skills</h2>
     <div style="display:flex; justify-content: center;">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fhtml-5%2Flogo-html-5-1024.png&f=1&nofb=1&ipt=36a75b019128841367312ef2b3359ec31c6f07c8301f418b9afb74e9790010d9&ipo=images" style="height: 40px; margin-right: 50px;">   
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fhtml-5%2Flogo-html-5-1024.png&f=1&nofb=1&ipt=36a75b019128841367312ef2b3359ec31c6f07c8301f418b9afb74e9790010d9&ipo=images" style="height: 40px; padding-right: 50px;">   
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fcss-3%2Flogo-css-3-2048.png&f=1&nofb=1&ipt=8415a141544bafb2d0d9bf20869df90252c4dd1896b9b29e4f7770d09d0d1b20&ipo=images" style="height: 40px; margin-right: 50px;">
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fjavascript%2Flogo-javascript-icon-1024.png&f=1&nofb=1&ipt=9457b06e2f697fea82bfae1c5b2c4dee267d9aea8855d3a2d4d0585877b67457&ipo=images" style="height: 40px; margin-right: 50px;">
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPHP_logo.png&f=1&nofb=1&ipt=ec8f77b57a2013253bf3711c2fd2cc37c67a0661f027976ffb837ea6dbb29e70&ipo=images" style="height: 40px; margin-right: 50px;">
