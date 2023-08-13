@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <style>
+        img{
+            display: flex;
+            }
+    </style>
 </head>
 <body>
     <h1>👋 Hey there, I'm Alfi Thomas!</h1>
