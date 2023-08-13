@@ -4,12 +4,11 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1><img src="[favicon.png](https://alfi-thomas.github.io/alfi-thomas/assets/img/profile-img.jpg)" style="width:30px;">I am ALFI THOMAS!</h1>
-    <ul>
-        <li>🔐 Immersing myself in the digital realm of cybersecurity, meticulously unveiling vulnerabilities one step at a time.</li>
-        <li>🌱 Embarking on a journey to master the craft of secure coding and ethical hacking.</li>
-        <li>💼 Eager to team up on groundbreaking cybersecurity ventures that challenge conventions and bolster our digital safeguards.</li>
-    </ul>
+    <h1>Hey mate, I'm Alfi Thomas!</h1>
+    <hr>
+    🔐 Immersing myself in the digital realm of cybersecurity, meticulously unveiling vulnerabilities one step at a time.<br>
+    🌱 Embarking on a journey to master the craft of secure coding and ethical hacking.<br>
+    💼 Eager to team up on groundbreaking cybersecurity ventures that challenge conventions and bolster our digital safeguards.<br>
     <h2>Let's connect:</h2>
     <ul>
         <li>Email: <a href="mailto:alfithomas13@gmail.com">alfithomas13@gmail.com</a></li>
