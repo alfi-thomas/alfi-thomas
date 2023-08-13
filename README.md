@@ -3,7 +3,7 @@
 <head>
 </head>
 <body style="margin: 0; padding: 0;">
-    <h1>👋 Hey there, I'm Alfi Thomas!</h1>
+    <h1>👋 Hey, I'm Alfi Thomas!</h1>
     <p>🔐 Exploring the digital realm of cybersecurity, one vulnerability at a time.</p>
     <p>🌱 Learning the art of secure coding and ethical hacking.</p>
     <p>💼 Seeking exciting collaborations on cybersecurity projects.</p>
