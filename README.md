@@ -2,4 +2,4 @@
 <p>🔐 Exploring the digital realm of cybersecurity, one vulnerability at a time.</p>
 <p>🌱 Learning the art of secure coding and ethical hacking.</p>
 <p>💼 Seeking exciting collaborations on cybersecurity projects.</p>
-<img src="qr-code.png">
+<img src="/qr-code.png">
