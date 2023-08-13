@@ -24,8 +24,8 @@
     <table style="margin: 0 auto; border-collapse: collapse;">
         <tr>
             <td style="padding: 10px;"><a href="mailto:alfithomas13@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Femail%2Femail_PNG11.png&f=1&nofb=1&ipt=833f30810bc99588fc689440d8f665639b864e7dee3fac82cb98ca17fadc493c&ipo=images" style="height: 40px;"></a></td>
-            <td style="padding: 10px;"><a href="https://www.facebook.com/alfi.thomas.13"><img src="https://image.flaticon.com/icons/svg/1384/1384053.svg" style="height: 40px;"></a></td>
-            <td style="padding: 10px;"><a href="https://www.instagram.com/_alfi_thomas_"><img src="https://image.flaticon.com/icons/svg/1384/1384063.svg" style="height: 40px;"></a></td>
-            <td style="padding: 10px;"><a href="https://www.linkedin.com/in/alfi-thomas"><img src="https://image.flaticon.com/icons/svg/1384/1384088.svg" style="height: 40px;"></a></td>
-            <td style="padding: 10px;"><a href="https://www.twitter.com/_alfi_thomas_"><img src="https://image.flaticon.com/icons/svg/1384/1384015.svg" style="height: 40px;"></a></td>
+            <td style="padding: 10px;"><a href="https://www.facebook.com/alfi.thomas.13"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipart.info%2Fimages%2Fccovers%2F1509135366facebook-symbol-png-logo.png&f=1&nofb=1&ipt=44592128f580040d422c3fad9edda3af20e30cfc152d46e8697c87b22c1defe5&ipo=images" style="height: 40px;"></a></td>
+            <td style="padding: 10px;"><a href="https://www.instagram.com/_alfi_thomas_"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.-ZirgQE5pr8e7htQWowJIgHaHa%26pid%3DApi&f=1&ipt=7f4eda0db893c4d54d78c93588a5c02d3a3f73ee14e641019888ae16345bacfe&ipo=images" style="height: 40px;"></a></td>
+            <td style="padding: 10px;"><a href="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Ftwitter-logo-png-logo-twitter-in-png-2500.png&f=1&nofb=1&ipt=26b2a7579b7e3aa8c97339e217020ebb3a7bc2aaa8122106aab2758e42f7ebd4&ipo=images" style="height: 40px;"></a></td>
+            <td style="padding: 10px;"><a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.vhv.rs%2Ffile%2Fmax%2F8%2F80808_linkedin-logo-white-png.png&f=1&nofb=1&ipt=8316abcef7ea1352eb0c8f61baa5d28ecf8092da9dc59aa870cf64d84a7c56b4&ipo=images" style="height: 40px;"></a></td>
         </tr>
