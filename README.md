@@ -9,7 +9,7 @@
     <p>💼 Seeking exciting collaborations on cybersecurity projects.</p>
     <h2>Skills</h2>
     <div style="display:flex;">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-marques.com%2Fwp-content%2Fuploads%2F2021%2F03%2FJava-Embleme-1536x869.png&f=1&nofb=1&ipt=a178ccd69d5026bfae0af4c19f88336b443e1d6fb62f887eb6605931624f7502&ipo=images" style="width: 100px;">
+        <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.seeklogo.net%2Fwp-content%2Fuploads%2F2013%2F03%2Fjava-eps-vector-logo-400x400.png&f=1&nofb=1&ipt=27f74db9195a2ddbabba8760386dfdb2a3d46a6afd44df9342bbf5d2f02af0af&ipo=images" style="width: 100px;">
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fbig%2F396-3965857_c-c-programming-language-logo-clipart.png&f=1&nofb=1&ipt=0a2f9917161ec0c969631805ac8a47a5d741174746ba32ee7504911a2af1850c&ipo=images" style="height: 60px;">
     </div>
     <h2>Let's connect:</h2>
