@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1><img src="assets/img/favicon.png">I am ALFI THOMAS!</h1>
+    <h1><img src="assets/img/favicon.png" style="width:30px;">I am ALFI THOMAS!</h1>
     <ul>
         <li>🔐 Immersing myself in the digital realm of cybersecurity, meticulously unveiling vulnerabilities one step at a time.</li>
         <li>🌱 Embarking on a journey to master the craft of secure coding and ethical hacking.</li>
