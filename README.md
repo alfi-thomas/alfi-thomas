@@ -23,7 +23,6 @@
     <h2>Let's connect:</h2>
     <table style="margin: 0 auto; border-collapse: collapse;">
         <tr>
-            <td style="padding: 10px;"><a href="mailto:alfithomas13@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Femail%2Femail_PNG11.png&f=1&nofb=1&ipt=833f30810bc99588fc689440d8f665639b864e7dee3fac82cb98ca17fadc493c&ipo=images" style="height: 40px;"></a></td>
             <td style="padding: 10px;"><a href="https://www.facebook.com/alfi.thomas.13"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipart.info%2Fimages%2Fccovers%2F1509135366facebook-symbol-png-logo.png&f=1&nofb=1&ipt=44592128f580040d422c3fad9edda3af20e30cfc152d46e8697c87b22c1defe5&ipo=images" style="height: 40px;"></a></td>
             <td style="padding: 10px;"><a href=""><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.aesthetx.com%2Fwp-content%2Fuploads%2F2021%2F01%2F1200px-Instagram_logo_2016.svg-1-min.png&f=1&nofb=1&ipt=1baa705d124a685430248bc9de2e19039cb30f39646d19a139ee7952f56357f9&ipo=images" style="height: 40px;"></a></td>
             <td style="padding: 10px;"><a href=""><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Ftwitter-logo-png-logo-twitter-in-png-2500.png&f=1&nofb=1&ipt=26b2a7579b7e3aa8c97339e217020ebb3a7bc2aaa8122106aab2758e42f7ebd4&ipo=images" style="height: 40px;"></a></td>
