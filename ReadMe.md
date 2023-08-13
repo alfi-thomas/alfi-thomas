@@ -1,12 +1,25 @@
-👋 Hey mate, I’m Alfi Thomas!
-- 🔐 Passionately exploring the digital realm of cybersecurity, uncovering vulnerabilities step by step.
-- 🌱 Learning the art of secure coding and ethical hacking.
-- 💼 Seeking collaborations on cybersecurity projects that challenge the status quo and enhance our digital defenses.
-- 📫 Let's connect:
-- Email: alfithomas13@gmail.com
-- Facebook: alfi.thomas.13
-- Instagram: _alfi_thomas_
-- LinkedIn: Alfi Thomas
-- Twitter: _alfi_thomas_
-Stay curious, stay secure!
-  <h1>Alfi Thomas</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alfi Thomas - Cybersecurity Enthusiast</title>
+</head>
+<body>
+    <h1>👋 Greetings there, I go by Alfi Thomas!</h1>
+    <ul>
+        <li>🔐 Immersing myself in the digital realm of cybersecurity, meticulously unveiling vulnerabilities one step at a time.</li>
+        <li>🌱 Embarking on a journey to master the craft of secure coding and ethical hacking.</li>
+        <li>💼 Eager to team up on groundbreaking cybersecurity ventures that challenge conventions and bolster our digital safeguards.</li>
+    </ul>
+    <h2>Let's connect:</h2>
+    <ul>
+        <li>Email: <a href="mailto:alfithomas13@gmail.com">alfithomas13@gmail.com</a></li>
+        <li>Facebook: <a href="https://www.facebook.com/alfi.thomas.13">alfi.thomas.13</a></li>
+        <li>Instagram: <a href="https://www.instagram.com/_alfi_thomas_">_alfi_thomas_</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/alfi-thomas">Alfi Thomas</a></li>
+        <li>Twitter: <a href="https://www.twitter.com/_alfi_thomas_">_alfi_thomas_</a></li>
+    </ul>
+    <p>Stay inquisitive, stay secure!</p>
+</body>
+</html>
