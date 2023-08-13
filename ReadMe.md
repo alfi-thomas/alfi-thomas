@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alfi Thomas - Cybersecurity Enthusiast</title>
-</head>
-<body>
-    <h1>👋 Greetings there, I go by Alfi Thomas!</h1>
+<h1>👋 Greetings there, I go by Alfi Thomas!</h1>
     <ul>
         <li>🔐 Immersing myself in the digital realm of cybersecurity, meticulously unveiling vulnerabilities one step at a time.</li>
         <li>🌱 Embarking on a journey to master the craft of secure coding and ethical hacking.</li>
@@ -21,5 +13,3 @@
         <li>Twitter: <a href="https://www.twitter.com/_alfi_thomas_">_alfi_thomas_</a></li>
     </ul>
     <p>Stay inquisitive, stay secure!</p>
-</body>
-</html>
