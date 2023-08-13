@@ -4,10 +4,10 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Hey mate, I'm Alfi Thomas!</h1>
-    🔐 Immersing myself in the digital realm of cybersecurity, meticulously unveiling vulnerabilities one step at a time.<br>
-    🌱 Embarking on a journey to master the craft of secure coding and ethical hacking.<br>
-    💼 Eager to team up on groundbreaking cybersecurity ventures that challenge conventions and bolster our digital safeguards.<br>
+    <h1>👋 Hey there, I'm Alfi Thomas!</h1>
+    <p>🔐 Exploring the digital realm of cybersecurity, one vulnerability at a time.</p>
+    <p>🌱 Learning the art of secure coding and ethical hacking.</p>
+    <p>💼 Seeking exciting collaborations on cybersecurity projects.</p>
     <h2>Let's connect:</h2>
     <ul>
         <li>Email: <a href="mailto:alfithomas13@gmail.com">alfithomas13@gmail.com</a></li>
