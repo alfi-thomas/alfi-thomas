@@ -9,6 +9,7 @@
     <p>💼 Seeking exciting collaborations on cybersecurity projects.</p>
     <h2>Skills</h2>
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-marques.com%2Fwp-content%2Fuploads%2F2021%2F03%2FJava-Logo-1536x868.png&f=1&nofb=1&ipt=36061d3555a442f6efb32f1cbcca80821ab7e135e99347024d7d27f1eecaaa9c&ipo=images" style="width: 100px;">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F355-3559027_c-programming-language-logo-clipart-png-download-c.png&f=1&nofb=1&ipt=43f41868dcffcc286dbf02ec8eec102bcfbc6ecdaa2fd4b37a45235ab3e684bf&ipo=images" style="width: 100px;">
     <h2>Let's connect:</h2>
     <ul>
         <li>Email: <a href="mailto:alfithomas13@gmail.com">alfithomas13@gmail.com</a></li>
