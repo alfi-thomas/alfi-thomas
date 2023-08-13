@@ -21,13 +21,11 @@
         </tr>
     </table>
     <h2>Let's connect:</h2>
-    <ul>
-        <li>Email: <a href="mailto:alfithomas13@gmail.com">alfithomas13@gmail.com</a></li>
-        <li>Facebook: <a href="https://www.facebook.com/alfi.thomas.13">alfi.thomas.13</a></li>
-        <li>Instagram: <a href="https://www.instagram.com/_alfi_thomas_">_alfi_thomas_</a></li>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/alfi-thomas">Alfi Thomas</a></li>
-        <li>Twitter: <a href="https://www.twitter.com/_alfi_thomas_">_alfi_thomas_</a></li>
-    </ul>
-    <p>Stay inquisitive, stay secure!</p>
-</body>
-</html>
+    <table style="margin: 0 auto; border-collapse: collapse;">
+        <tr>
+            <td style="padding: 10px;"><a href="mailto:alfithomas13@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" style="height: 40px;"></a></td>
+            <td style="padding: 10px;"><a href="https://www.facebook.com/alfi.thomas.13"><img src="https://image.flaticon.com/icons/svg/1384/1384053.svg" style="height: 40px;"></a></td>
+            <td style="padding: 10px;"><a href="https://www.instagram.com/_alfi_thomas_"><img src="https://image.flaticon.com/icons/svg/1384/1384063.svg" style="height: 40px;"></a></td>
+            <td style="padding: 10px;"><a href="https://www.linkedin.com/in/alfi-thomas"><img src="https://image.flaticon.com/icons/svg/1384/1384088.svg" style="height: 40px;"></a></td>
+            <td style="padding: 10px;"><a href="https://www.twitter.com/_alfi_thomas_"><img src="https://image.flaticon.com/icons/svg/1384/1384015.svg" style="height: 40px;"></a></td>
+        </tr>
